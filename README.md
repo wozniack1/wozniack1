@@ -4,7 +4,5 @@
 - 🌱 Eu estou aprendendo a proramar recentemente a linguagem de JavaScript e Scratch
 
 
-<!---
-wozniack1/wozniack1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<a href="https://www.javascript.com/" target="_blank"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" target="_blank"/></a>   <a href="https://scratch.mit.edu/" target="_blank"><img src="https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white" target="_blank"/></a>
