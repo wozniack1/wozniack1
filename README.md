@@ -1,7 +1,7 @@
 - 👋 Meu nome é Rafael
 - :+1: Meu email de contato é rafael.wozniack@escola.pr.gov.br
 - 👀 Estou interessado em aprender a programar novas liguagens
-- 🌱 Eu estou aprendendo a proramar recentemente a linguagem de JavaScript e Scratch
+- 🌱 Eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch
 
 
 
